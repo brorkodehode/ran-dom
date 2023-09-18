@@ -11,7 +11,7 @@ function generateLeet() {
     for (let i = 0; i < TallArr.length; i++) {
      if (i === index) {
         randomLeet = TallArr[i];
-        document.getElementById('randomElementOutput').textContent = randomLeet;
+        
      }
 
      
